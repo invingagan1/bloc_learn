@@ -1,0 +1,4 @@
+#Mon Jun 29 09:45:53 IST 2020
+base.0=/Users/gagds/gagan/study/flutter/bloc_learn/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
